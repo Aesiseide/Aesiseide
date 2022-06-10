@@ -24,8 +24,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:aesiseide@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/aesiseide/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/aesis.eide"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:aesiseide@gmail.com"><img src="https://img.shields.io/badge/-aesiseide@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/aesiseide/"><img src="https://img.shields.io/badge/-@aesiseide-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/aesis.eide"><img src="https://img.shields.io/badge/-@aesis.eide-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
