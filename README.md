@@ -1,3 +1,3 @@
-# ConsciousCoffee
+# Portfolio Website
 
-Coffee shop website
+My personal portfolio website
