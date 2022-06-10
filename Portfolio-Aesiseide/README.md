@@ -1,3 +1,0 @@
-# ConsciousCoffee
-
-Coffee shop website
